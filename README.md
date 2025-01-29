@@ -1,1 +1,0 @@
-This is just me learning React JS. After I learn react JS I promise to create open source projects for developers and normal users.
